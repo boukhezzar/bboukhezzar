@@ -21,7 +21,7 @@ role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Washington
+  - name: University of Constantine
   - name: Urban Freight Lab
     url: ''
 
