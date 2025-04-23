@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Giacomo Dalla Chiara
+title: Boubekeur Boukhezzar
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -21,19 +21,18 @@ role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Constantine
-  - name: Urban Freight Lab
-    url: ''
+  - name: University of Constantine 1
+    url: 'https://www.umc.edu.dz/index.php/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include urban logistics, behavioral mobility, transportation systems.
+bio: My research interests include nonlinear systems, wind turbines, iLabs.
 
 # Interests to show in About widget
 interests:
-  - Urban Logistics
-  - Multimodal transportation
-  - Behavioral mobility
-  - Urban freight planning
+  - Nonlinear control
+  - Wind turbines
+  - Electrical drives
+  - iLabs
 # Education to show in About widget
 education:
   courses:
@@ -56,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:giacomod@euw.edu'
+    link: 'mailto:boubekeur.boukhezzar@umc.edu.dz'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.sg/citations?user=K2gZyBgAAAAJ&hl=en
@@ -74,7 +73,7 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at the University of Washington [Urban Freight Lab](https://urbanfreightlab.com/) and an affiliate instructor at the [Supply Chain Transportation and Logistics MSc program](https://www.supply-chain-transportation.uw.edu/). My research is focused on human behaviors in urban logistic systems, which I apply to urban transport planning, multimodal transportation, freight operations, infrastructure management, and food systems, among others.
+I am a full professor at the Constantine 1 University  [Urban Freight Lab](https://urbanfreightlab.com/) and a member of the [Laboratoire d'Automatique et Robotique de Constantine (LARC)](https://www.supply-chain-transportation.uw.edu/). My research is focused on advanced control systems, which I apply to renewable energy systems, electrical drives, among others.
 
 I completed my PhD in Engineering Systems Design in 2018 at the [Singapore University of Technology and Design](https://esd.sutd.edu.sg/) and spent a year as a visiting researcher at the [MIT Intelligent Transportation System Lab](https://www.its.mit.edu/). I hold an MSC in Computational Statistics ([ETH Zurich](https://math.ethz.ch/sfs)) and a BSc in Economics and Business ([LUISS](https://economiaefinanza.luiss.it/)).
 
