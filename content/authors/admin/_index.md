@@ -6,8 +6,8 @@ title: Giacomo Dalla Chiara
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Giacomo
-last_name: Dalla Chiara
+first_name: Boubekeur
+last_name: Boukhezzar
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
